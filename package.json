@@ -1,0 +1,27 @@
+{
+  "name": "express-setup",
+  "version": "1.0.0",
+  "description": "Express setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksunilssah/express-demo.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs"
+  ],
+  "author": "PG, Sunil, Sneh Raj <ksunilssah@gmail.com> (http://localhost)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksunilssah/express-demo/issues"
+  },
+  "homepage": "https://github.com/ksunilssah/express-demo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {}
+}
